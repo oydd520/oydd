@@ -3,12 +3,12 @@
     <service>
         <engineName>Typecho</engineName>
         <engineLink>http://www.typecho.org/</engineLink>
-        <homePageLink>https://shoujixiaozhuan.com/</homePageLink>
+        <homePageLink>https://ztyxw.com/</homePageLink>
         <apis>
-            <api name="WordPress" blogID="1" preferred="true" apiLink="https://shoujixiaozhuan.com/action/xmlrpc" />
-            <api name="Movable Type" blogID="1" preferred="false" apiLink="https://shoujixiaozhuan.com/action/xmlrpc" />
-            <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://shoujixiaozhuan.com/action/xmlrpc" />
-            <api name="Blogger" blogID="1" preferred="false" apiLink="https://shoujixiaozhuan.com/action/xmlrpc" />
+            <api name="WordPress" blogID="1" preferred="true" apiLink="https://ztyxw.com.com/action/xmlrpc" />
+            <api name="Movable Type" blogID="1" preferred="false" apiLink="https://ztyxw.com.com/action/xmlrpc" />
+            <api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://ztyxw.com.com/action/xmlrpc" />
+            <api name="Blogger" blogID="1" preferred="false" apiLink="https://ztyxw.com.com/action/xmlrpc" />
         </apis>
     </service>
 </rsd>
